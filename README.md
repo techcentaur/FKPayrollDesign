@@ -1,5 +1,9 @@
 # FKPayrollDesign
-Design, Simulation and Programming Assignment
+Programming assignment as part of the one week mandatory training at my Flipkart internship assessment.
+
+## Idea
+Idea is to create a service that would roll out payment to employees working with different schemes (freelancing, part-time, remote, hourly) at a company.
+Employees can be registered, added into unions, unions can be charged; all the basic features in any corporate sector payroll mechanics in a nutshell.
 
 ### Usage
 
